@@ -2,7 +2,7 @@
 
 ### Dashboard Link: https://app.powerbi.com/groups/me/reports/68fa5d21-e5dd-468d-a5f3-46c1467d73ea/831f0fc554e41f2486c8?experience=power-bi
 
-## Problem Statement
+## Project Overview
 
 This dashboard is useful to various stakeholders and can help them make informed decisions, optimize strategies, and improve overall engagement. It helps teams analyze their strengths, weaknesses, and also assess indivual player perfomances in order to improve game strategies. It also helps coaches and players to highlight on areas that need improvement. It also gives a deeper understanding of the tactics used by rival teams that can be used to plan counter-strategies.
 
